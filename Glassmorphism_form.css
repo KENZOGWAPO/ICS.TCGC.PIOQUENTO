@@ -21,7 +21,7 @@
     height: auto;
     padding: 50px;
     border-radius: 12px;
-    backdrop-filter: blur(8px);
+    backdrop-filter: blur(2px);
     box-shadow: #0000001a 0px 4px 12px;
   }
   
